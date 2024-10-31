@@ -71,5 +71,6 @@ I'm a **Full Stack Developer** passionate about building impactful web and mobil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsabale)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://akashsabale.netlify.app)  
 
-
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsabale01&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="akashsabale01" /> </p>
 
